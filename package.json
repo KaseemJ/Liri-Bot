@@ -1,0 +1,22 @@
+{
+  "name": "liri-bot",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaseemJ/Liri-Bot.git"
+  },
+  "author": "Kaseem Jones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaseemJ/Liri-Bot/issues"
+  },
+  "homepage": "https://github.com/KaseemJ/Liri-Bot#readme",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
+}
