@@ -22,5 +22,6 @@
     "omdb": "^0.8.0",
     "request": "^2.87.0",
     "twitter": "^1.7.1"
-  }
+  },
+  "devDependencies": {}
 }
